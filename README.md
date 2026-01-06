@@ -17,8 +17,6 @@ I’m a Computer Science student who loves turning ideas into interactive web ex
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Disha2628&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
